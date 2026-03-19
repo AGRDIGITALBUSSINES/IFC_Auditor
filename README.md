@@ -7,6 +7,7 @@ Herramienta de escritorio desarrollada en Python que permite auditar archivos IF
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/Licencia-MIT-green)
 ![Platform](https://img.shields.io/badge/Plataforma-Windows%20|%20Linux%20|%20macOS-blue)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AGRDIGITALBUSSINES.IFC_Auditor)
 
 ---
 
